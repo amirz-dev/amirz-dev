@@ -1,11 +1,12 @@
-# Amir.h Zebardast
+# Amirz-dev
 [![Instagram Badge](https://img.shields.io/badge/-MyInstagram-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amirz_dev/)
 [![Telegram Badge](https://img.shields.io/badge/-MyTelegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
 
 ## Hi 👋, 
-I'm Amirhossein Zebardast, a Front-End Developer(Vue.js-Nuxt). 
+I'm Amirhossein Zebardast, a Front-End Developer (Vue.js - Nuxt.js). I have been interested in programming for 5 years and started working, and I would like to reach my highest level in programming.
+
 > Phone:     +98-903 8007 960<br>
-> E-mail:    aydinrezaeefdr@gmail.com<br><br>
+> E-mail:    aydinrezaeefdr@gmail.com<br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
