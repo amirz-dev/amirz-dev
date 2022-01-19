@@ -1,14 +1,15 @@
-# Amirz-dev
+## Hi there, I'm Amirhossein Zebardast 👋, 
+ I'm a Front-End Developer (Vue.js - Nuxt.js). i'm enjoyed new challenges and thirsty to learn :)
+
+## Connect with me
+> E-mail:    amirhz.dev@gmail.com<br>
+> Telegram:  <a href="https://t.me/amir_h_z">@amirz_dev</a><br>
+> Instagram:  <a href="https://www.instagram.com/amirz_dev/">@amirz_dev</a><br>
+
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirz_dev/)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhz.dev@gmail.com)
 
-## Hi there, I'm Amirhossein Zebardast 👋, 
- I'm a Front-End Developer (Vue.js - Nuxt.js). i'm enjoyed new challenges and thirsty to learn :)
-
-> E-mail:    amirhz.dev@gmail.com<br>
-> Telegram:    amirhz.dev@gmail.com<br>
-> Instagram:  <a href="https://www.instagram.com/amirz_dev/">@amirz_dev</a><br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
