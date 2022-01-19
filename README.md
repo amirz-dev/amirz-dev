@@ -32,3 +32,5 @@ I'm a Front-End Developer (Vue.js - Nuxt.js), enjoy new challenges and thirsty t
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirz-dev&layout=compact&theme=radical" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
