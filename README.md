@@ -1,16 +1,23 @@
-### Hi there 👋
+# Amir.h Zebardast
+[![Instagram Badge](https://img.shields.io/badge/-MyInstagram-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amirz_dev/)
+[![Telegram Badge](https://img.shields.io/badge/-MyTelegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
 
-<!--
-**amirz-dev/amirz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Mostafa Zebardast, a Back End Developer. 
 
-Here are some ideas to get you started:
+<p align="justify"> 
+    <img
+      width="150"
+      src="https://github-readme-stats.vercel.app/api?username=Amirz-Dev&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+    <img
+      width="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirz-Dev&layout=compact&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies:
+<div style="display: inline_block"><br>
+  <code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"></code>
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg"></code>
+  <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain.svg"></code>
+</div>
