@@ -28,7 +28,7 @@ I'm a Front-End Developer (Vue.js - Nuxt.js), enjoy new challenges and thirsty t
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=amirz-dev&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
-    <img
+    <!--<img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirz-dev&count_private=true&layout=compact&theme=radical" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirz-dev&count_private=true&layout=compact&theme=radical" />-->
 </p>
