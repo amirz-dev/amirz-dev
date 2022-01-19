@@ -1,7 +1,7 @@
 # Hi there, I'm Amirhossein Zebardast 👋, 
 I'm a Front-End Developer (Vue.js - Nuxt.js), enjoy new challenges and thirsty to learn :)
 
-## Connect with me
+### Connect with me
 > E-mail:    amirhz.dev@gmail.com<br>
 > Telegram:  <a href="https://t.me/amir_h_z">@amirhz_dev</a><br>
 > Instagram:  <a href="https://www.instagram.com/amirz_dev/">@amirz_dev</a><br>
