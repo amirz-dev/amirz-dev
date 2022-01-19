@@ -8,7 +8,7 @@
 
 > E-mail:    amirhz.dev@gmail.com<br>
 > Telegram:    amirhz.dev@gmail.com<br>
-> E-mail:    amirhz.dev@gmail.com<br>
+> Instagram:  <a href="https://www.instagram.com/amirz_dev/">@amirz_dev</a><br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
