@@ -33,4 +33,5 @@ I'm Amirhossein Zebardast, a Front-End Developer (Vue.js - Nuxt.js). I have been
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"></code>
+     <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
 </div>
