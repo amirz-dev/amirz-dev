@@ -1,6 +1,7 @@
 # Amirz-dev
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirz_dev/)
-[![Telegram Badge](https://img.shields.io/badge/-MyTelegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
+[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhz.dev@gmail.com)
 
 ## Hi there, I'm Amirhossein Zebardast 👋, 
  I'm a Front-End Developer (Vue.js - Nuxt.js). i'm enjoyed new challenges and thirsty to learn :)
