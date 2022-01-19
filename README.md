@@ -5,8 +5,7 @@
 ## Hi 👋, 
 I'm Amirhossein Zebardast, a Front-End Developer (Vue.js - Nuxt.js). I have been interested in programming for 5 years and started working, and I would like to reach my highest level in programming.
 
-> Phone:     +98-903 8007 960<br>
-> E-mail:    aydinrezaeefdr@gmail.com<br>
+> E-mail:    amirhz.dev@gmail.com<br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
