@@ -3,7 +3,7 @@
 
 ## Connect with me
 > E-mail:    amirhz.dev@gmail.com<br>
-> Telegram:  <a href="https://t.me/amir_h_z">@amirz_dev</a><br>
+> Telegram:  <a href="https://t.me/amir_h_z">@amirhz_dev</a><br>
 > Instagram:  <a href="https://www.instagram.com/amirz_dev/">@amirz_dev</a><br>
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirz_dev/)
