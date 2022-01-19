@@ -19,6 +19,9 @@ I'm Mostafa Zebardast, a Back End Developer.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirz-Dev&layout=compact&theme=radical" />
 </p>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+
 ### Technologies:
 <div style="display: inline_block"><br>
   <code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"></code>
