@@ -15,6 +15,16 @@ I'm Mostafa Zebardast, a Back End Developer.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirz-Dev&layout=compact&theme=radical" />
 </p>
 
+<p align="justify"> 
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Mehdi-Zandian&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-Zandian&layout=compact&theme=radical" />
+</p>
+
 ### Technologies:
 <div style="display: inline_block"><br>
   <code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"></code>
