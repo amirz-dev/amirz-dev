@@ -10,22 +10,6 @@
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhz.dev@gmail.com)
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-<p align="justify"> 
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Amirz-Dev&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
-    />
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirz-Dev&layout=compact&theme=radical" />
-</p>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-
-
 ### Technology Stack:
 <div style="display: inline_block"><br>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -40,3 +24,15 @@
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"></code>
 </div>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+<p align="justify"> 
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Amirz-Dev&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirz-Dev&layout=compact&theme=radical" />
+</p>
