@@ -1,10 +1,12 @@
 # Amirz-dev
-[![Instagram Badge](https://img.shields.io/badge/-MyInstagram-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/amirz_dev/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirz_dev/)
 [![Telegram Badge](https://img.shields.io/badge/-MyTelegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
 
-## Hi 👋, 
-I'm Amirhossein Zebardast, a Front-End Developer (Vue.js - Nuxt.js). i'm enjoyed new challenges and thirsty to learn :)
+## Hi there, I'm Amirhossein Zebardast 👋, 
+ I'm a Front-End Developer (Vue.js - Nuxt.js). i'm enjoyed new challenges and thirsty to learn :)
 
+> E-mail:    amirhz.dev@gmail.com<br>
+> Telegram:    amirhz.dev@gmail.com<br>
 > E-mail:    amirhz.dev@gmail.com<br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -22,7 +24,7 @@ I'm Amirhossein Zebardast, a Front-End Developer (Vue.js - Nuxt.js). i'm enjoyed
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
-### Technologies:
+### Technology Stack:
 <div style="display: inline_block"><br>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
