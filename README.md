@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-MyTelegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
 
 ## Hi 👋, 
-I'm Mostafa Zebardast, a Back End Developer. 
+I'm Amirhossein Zebardast, a Front-End Developer(Vue.js-Nuxt). 
 > Phone:     +98-903 8007 960<br>
 > E-mail:    aydinrezaeefdr@gmail.com<br><br>
 
