@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-MyTelegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/amir_h_z)
 
 ## Hi 👋, 
-I'm Amirhossein Zebardast, a Front-End Developer (Vue.js - Nuxt.js). I have been interested in programming for 5 years and started working, and I would like to reach my highest level in programming.
+I'm Amirhossein Zebardast, a Front-End Developer (Vue.js - Nuxt.js). i enjoy the new challenge and thirsty to learn :)
 
 > E-mail:    amirhz.dev@gmail.com<br>
 
